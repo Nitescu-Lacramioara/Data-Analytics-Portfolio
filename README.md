@@ -19,7 +19,7 @@ Each project focuses on different aspects of SQL and analytical thinking — fro
 
 * MySQL Workbench
 * SQL (CTE, Window Functions, GROUP BY, ORDER BY)
-* Excel *(basic–intermediate level, currently completing an advanced course on Coursera)*
+* Excel basic–intermediate level
 
 ---
 
